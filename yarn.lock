@@ -6704,12 +6704,12 @@ parseurl@~1.3.3:
   resolved "https://registry.yarnpkg.com/parseurl/-/parseurl-1.3.3.tgz#9da19e7bee8d12dff0513ed5b76957793bc2e8d4"
   integrity sha512-CiyeOxFT/JZyN5m0z9PfXw4SCBJ6Sygz1Dpl0wqjlhDEGGBP1GnsUVEL0p63hoG1fcj3fHynXi9NYO4nWOL+qQ==
 
-particles.vue@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/particles.vue/-/particles.vue-3.6.0.tgz#38e7ea54fdfd134ad5de9cdc43e394500f983481"
-  integrity sha512-q1PPfqKDDY7oUqQhIMxFbuRY/k3PJ80Mmsm7gPNJn/VVm5/1LUT4n0CDogx3HBE7fwkSW7iO/1WKSaUAfOhqTw==
+particles.vue@^3.7.1:
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/particles.vue/-/particles.vue-3.7.1.tgz#1c5b76c2fc2fea68f38760ffeaa183b2328b2762"
+  integrity sha512-KqrNZLjk8EFSyOVYiXp40JZbqMuana2msYGonRp5L0051E9wRAYNdG7ij0QJGiVbZJSFxHX8+BszLz3OHqA8yQ==
   dependencies:
-    tsparticles-engine "^2.6.0"
+    tsparticles-engine "^2.7.1"
     vue-class-component "^7.2.6"
     vue-property-decorator "^9.1.2"
 
@@ -8919,7 +8919,7 @@ tslib@^2.0.3, tslib@^2.1.0, tslib@^2.3.1:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
   integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
 
-tsparticles-engine@^2.6.0, tsparticles-engine@^2.7.1:
+tsparticles-engine@^2.7.1:
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/tsparticles-engine/-/tsparticles-engine-2.7.1.tgz#8800ed8569db65dbccaed6c42e5bf86bdf2dff1a"
   integrity sha512-iUjaagXDyYuJi107yADrLegIQ1jHe658JJQUv6+Fd/DRLrmuBU4XrzaxlERv72LHUrZtk1E/WmnOpeIw1AJzFQ==
