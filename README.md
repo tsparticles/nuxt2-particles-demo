@@ -1,5 +1,9 @@
 # nuxt2-particles-demo
 
+## ⚠️⚠️⚠️ This project was moved to the `Vue 2.x` [tsParticles](https://github.com/matteobruni/tsparticles) component library repository [here](https://github.com/tsparticles/vue2). If you need help, ask there. ⚠️⚠️⚠️
+
+---
+
 ## Build Setup
 
 ```bash
